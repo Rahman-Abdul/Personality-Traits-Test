@@ -1,4 +1,5 @@
-  .home_container{
+.home_container{
+
  color: lightsalmon;
  margin: 0;
  position: absolute;
@@ -6,8 +7,11 @@
  left: 50%;
  -ms-transform: translate(-50%, -50%);
  transform: translate(-50%, -50%);
+
 }
+
 .home_button{
+
   cursor: pointer;
   color: blueviolet;
   background-color: gold;
@@ -15,4 +19,6 @@
   border-radius:5px;
   align-self: center;
   margin-left: 30%;
+
 }
+
